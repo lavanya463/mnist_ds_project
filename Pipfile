@@ -5,7 +5,13 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
-tensorflow = "*"
+torch = "*"
+torchvision = "*"
+matplotlib = "*"
+plotly = "*"
+pandas = "*"
+numpy = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
