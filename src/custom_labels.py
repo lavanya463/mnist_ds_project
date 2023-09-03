@@ -7,6 +7,7 @@ label_mapping = {
     4: "bags"
 }
 
+
 # Applying custom labelling as per the project requirements
 def apply_custom_labels(labels):
     custom_labels = []
