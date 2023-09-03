@@ -1,5 +1,4 @@
 import torch
-
 label_mapping = {
     0: "upper_part",
     1: "bottom_part",
